@@ -1,1 +1,22 @@
-AAAAAA
+{
+  "name": "John Doe",
+  "age": 30,
+  "email": "john.doe@example.com",
+  "isActive": true,
+  "address": {
+    "street": "123 Main St",
+    "city": "New York",
+    "zipCode": "10001"
+  },
+  "phoneNumbers": [
+    {
+      "type": "mobile",
+      "number": "123-456-7890"
+    },
+    {
+      "type": "home",
+      "number": "098-765-4321"
+    }
+  ],
+  "hobbies": ["reading", "traveling", "coding"]
+}
